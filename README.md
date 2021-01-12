@@ -14,5 +14,5 @@ This project would be useful for preemptive vaccine synthesis, which would cut d
 
 Graphs:
 
-![alt text](https://github.com/SuhasNandiraju/Quantum-ML-Mutation-Predictor/blob/master/results.jpg?raw=true)
+![alt text](https://github.com/SuhasNandiraju/Quantum-ML-Mutation-Predictor/blob/master/Screen Shot 2021-01-11 at 6.24.17 PM.png?raw=true)
 
