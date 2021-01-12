@@ -1,7 +1,7 @@
 # Quantum-ML-Mutation-Predictor
 
 
-This project uses Quantum-hybrid Machine Learning to predict genetic mutations in viruses.
+This project uses Quantum-hybrid Machine Learning to predict genetic mutations in viruses more efficiently and accurately than ever before.
 
 First, we train a Quantum-hybrid Variational Autoencoder to encode and decode the data. 
 Then, we train a Quantum-hybrid LSTM time series predictor on the encoded and vectorized data.
