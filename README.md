@@ -12,7 +12,7 @@ Currently, the model achieves an accuracy of 98.5%, with a median error of 8 fro
 
 This project would be useful for preemptive vaccine synthesis, which would cut down the deaths and total infections of seasonal diseases by having a vaccine prepared for unknown mutations.
 
-Graphs:
+Graphs of Results:
 
 ![alt text](https://github.com/SuhasNandiraju/Quantum-ML-Mutation-Predictor/blob/master/GraphResultsRCQ.jpg?raw=true)
 
